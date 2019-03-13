@@ -1,0 +1,23 @@
+{
+  "name": "student-report-card",
+  "version": "1.0.0",
+  "description": "student report card",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perrycpf/student-report-card.git"
+  },
+  "author": "Perry Choy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perrycpf/student-report-card/issues"
+  },
+  "homepage": "https://github.com/perrycpf/student-report-card#readme",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
