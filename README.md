@@ -7,3 +7,4 @@ Getting started
 2. Run npm install in GitBash for Windows, and terminal for Mac.
 3. node app.js to start the program
 4. The output file will be stored at the same location called 'report_cards.txt'
+5. Download link, please click it out [here](https://github.com/perrycpf/student-report-card)
